@@ -1,0 +1,1 @@
+1. ObjectStack implementacijažš2. Model-Listener implementacijašš
